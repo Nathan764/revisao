@@ -1,2 +1,2 @@
 # revisao
- revisao de coisas basicas de HTML, CSS e JavaScript
+ Revisao de coisas basicas de HTML, CSS e JavaScript
